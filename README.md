@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057B7,100:D52B1E&height=200&section=header&text=assma%20&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=assma%20&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 ### Developer
 
@@ -21,18 +21,18 @@
 <div align="center">
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -42,9 +42,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=assma&color=0057B7&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/assma?label=Followers&style=flat-square&color=0057B7&logo=github)
-![Stars](https://img.shields.io/github/stars/assma?label=Stars&style=flat-square&color=D52B1E&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=assma&color=000000&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/assma?label=Followers&style=flat-square&color=000000&logo=github)
+![Stars](https://img.shields.io/github/stars/assma?label=Stars&style=flat-square&color=000000&logo=github)
 
 </div>
 
@@ -52,6 +52,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D52B1E,100:0057B7&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=footer" />
 
 </div>
