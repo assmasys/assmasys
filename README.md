@@ -42,7 +42,7 @@
 
 <div align="center">
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=assma.assma&left_color=000000&right_color=434343&left_text=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=assma&color=000000&style=flat-square&label=Profile+Views&base=2000)
 ![Followers](https://img.shields.io/github/followers/assma?label=Followers&style=flat-square&color=000000&logo=github)
 ![Stars](https://img.shields.io/github/stars/assma?label=Stars&style=flat-square&color=000000&logo=github)
 
