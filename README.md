@@ -38,14 +38,6 @@
 
 ---
 
-## Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=assma&color=000000&style=flat-square&label=Profile+Views&base=2000)
-![Followers](https://img.shields.io/github/followers/assma?label=Followers&style=flat-square&color=000000&logo=github)
-![Stars](https://img.shields.io/github/stars/assma?label=Stars&style=flat-square&color=000000&logo=github)
-
 </div>
 
 ---
